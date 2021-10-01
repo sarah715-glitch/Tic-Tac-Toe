@@ -10,12 +10,11 @@ I used classes, conditional statements, loops, data structures, and variables to
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/python/python_for_loops.asp)
 * [Real Python](https://realpython.com/python-conditional-statements/)
-* [W3 Schools] (https://www.w3schools.com/python/python_classes.asp)
-* [Real Python] (https://realpython.com/python-data-structures/)
-* [Free Code Camp] (https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
+* [W3Schools] (https://www.w3schools.com/python/python_classes.asp)
+* [RealPython] (https://realpython.com/python-data-structures/)
+* [FreeCodeCamp] (https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 
 # Future Work
 
